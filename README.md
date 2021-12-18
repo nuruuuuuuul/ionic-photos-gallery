@@ -1,1 +1,1 @@
-# ionic-photo-gallery
+"# ionic-photos-gallery" 
